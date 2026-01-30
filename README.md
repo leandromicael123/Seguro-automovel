@@ -5,4 +5,4 @@ A análise baseia-se numa amostra de sinistros automóveis, envolvendo variávei
 
 O resultado final identifica três clusters interpretáveis — Acidentes Simples, Acidentes Complexos com Alto Custo e Acidentes com Baixo Custo, padrões estruturais relevantes para gestão de risco, pricing e eficiência operacional em seguradoras.
 
-O repositório inclui código, outputs gráficos e o relatório final, permitindo reproduzir integralmente a análise e servir como referência para projetos de segmentação e análise exploratória em ciência de dados aplicada.
+O repositório inclui o código e o relatório final, permitindo reproduzir integralmente a análise e servir como referência para projetos de segmentação e análise exploratória em ciência de dados aplicada.
